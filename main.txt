@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+
+git add main.txt
+git commit -m "최초"
