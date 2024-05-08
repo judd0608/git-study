@@ -3,4 +3,6 @@ git status
 git add .
 
 git add main.txt
-git commit -m "최초"
+git commit -m "first"
+
+hello worl
